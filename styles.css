@@ -1,0 +1,10 @@
+header h1{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+nav li{
+    display: inline-block;
+    align: center;
+}
+    
